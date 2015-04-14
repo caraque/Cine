@@ -12,7 +12,7 @@ public class SalaCineBean {
     public String consultarSala() {
        String archivo = null;
         try {
-            File file = new File("C:\\proyectos_java\\www.negocioentuzona.com\\trunk\\www.negocioentuzona.com - Fase I\\Cine\\src\\Sala.txt");
+            File file = new File("C:\\Sala.txt");
             FileReader archivoSalas = new FileReader(file);
             BufferedReader bf = new BufferedReader(archivoSalas);
             archivo = bf.readLine();

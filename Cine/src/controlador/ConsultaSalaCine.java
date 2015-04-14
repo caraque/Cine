@@ -28,8 +28,8 @@ public class ConsultaSalaCine {
         room.setTo(Integer.parseInt(salaProperty[1]));
         String[] seatProperty = salaProperty[2].split("\\.");
         System.out.println("Tamaño " + seatProperty.length);
-        for (int a = 0; a < seatProperty.length; a++) {
-            for (int b = 0; b < seatProperty[a].length(); b++) {
+
+            for (int b = 0; b < seatProperty.length; b++) {
                 String[] seats = seatProperty[b].split(",");
                 Seat seat = new Seat();
                 seat.setNroAsiento(Integer.parseInt(seats[0]));
@@ -40,10 +40,6 @@ public class ConsultaSalaCine {
                 System.out.println(seat.toString());
             }
             listaListaSeat.add(listaSeat);
-        }
-
-
-
 
         room.setSeats(listaSeat);
 
