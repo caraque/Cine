@@ -40,28 +40,26 @@ public class Cine extends Application {
         ArrayList<Label> array = new ArrayList<Label>();
         hbox = new HBox[cs.getCantidadButacas()];
         for (int a = 0; a < cs.getCantidadButacas(); a++) {
-            int c=0;
+            int c = 0;
             hbox[a] = new HBox();
             Label label = new Label(String.valueOf(room.getSeats().get(a).getNroAsiento()));
             label.setStyle(room.getSeats().get(a).isAvaliable() == true ? "-fx-background-color: #09df00" : "-fx-background-color: #ae060b");
-            label.setMinSize(30,30);
-            //label.setTextAlignment(TextAlignment.CENTER);
+            label.setMinSize(30, 30);
             for (int b = 0; b < fila.size(); b++) {
                 if (b == fila.get(a)) {
-                    if (hbox[c] != null) {
-                        hbox[c].getChildren().add(label);
-                    } else {
-                        hbox[c] = new HBox();
-                        hbox[c].getChildren().add(label);
+                    for (int d = 0; d < columna.size(); d++) {
+                        if (d == columna.get(a)) {
+                            if (hbox[columna.get(a)] == null) {
+                                hbox[columna.get(a)] = new HBox();
+                                hbox[columna.get(a)].getChildren().add(label);
+                            } else {
+                                hbox[columna.get(a)].getChildren().add(label);
+                            }
+                        }
                     }
                 }
-                c++;
             }
-
             array.add(label);
-           // hbox[a].getChildren().addAll(array);
-           //  hbox[a].setAlignment(Pos.CENTER);
-
             vbox.getChildren().add(hbox[a]);
         }
 
