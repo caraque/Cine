@@ -12,7 +12,8 @@ public class SalaCineBean {
     public String consultarSala() {
        String archivo = null;
         try {
-            File file = new File("C:\\Sala.txt");
+
+            File file = new File("src/Sala.txt");
             FileReader archivoSalas = new FileReader(file);
             BufferedReader bf = new BufferedReader(archivoSalas);
             archivo = bf.readLine();
