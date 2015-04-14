@@ -40,8 +40,16 @@ public class Cine extends Application {
         hbox = new HBox[cs.getCantidadButacas()];
         for (int a = 1; a < cs.getCantidadButacas(); a++) {
             hbox[a] = new HBox();
-            Label label = new Label(String.valueOf(room.getSeats().get(a).getNroAsiento()));
-            label.setStyle(room.getSeats().get(a).isAvaliable() == true ? "-fx-background-color: #09df00" : "-fx-background-color: #ae060b");
+            Label label = new Label();
+            if (room.getSeats().get(a).isAvaliable() == null) {
+                label.setStyle("-fx-background-color: #003b4e;");
+            } else if (room.getSeats().get(a).isAvaliable() == false) {
+                label.setText(String.valueOf(room.getSeats().get(a).getNroAsiento()));
+                label.setStyle("-fx-background-color: #ae060b");
+            } else if (room.getSeats().get(a).isAvaliable() == true) {
+                label.setText(String.valueOf(room.getSeats().get(a).getNroAsiento()));
+                label.setStyle("-fx-background-color: #09df00");
+            }
             label.setMinSize(30, 30);
             for (int b = 0; b < fila.size(); b++) {
                 if (b == fila.get(a)) {
@@ -62,9 +70,7 @@ public class Cine extends Application {
             }
             vbox.getChildren().addAll(hbox[a]);
         }
-
         vbox.setAlignment(Pos.CENTER);
-
 
         vbox.setStyle("-fx-background-color: #003b4e;");
         vbox.setLayoutX(66);

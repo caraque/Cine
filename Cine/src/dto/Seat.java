@@ -8,7 +8,7 @@ public class Seat {
     private int nroAsiento;
     private int row;
     private int column;
-    private boolean avaliable;
+    private Boolean avaliable;
 
     public int getNroAsiento() {
         return nroAsiento;
@@ -34,11 +34,11 @@ public class Seat {
         this.column = column;
     }
 
-    public boolean isAvaliable() {
+    public Boolean isAvaliable() {
         return avaliable;
     }
 
-    public void setAvaliable(boolean avaliable) {
+    public void setAvaliable(Boolean avaliable) {
         this.avaliable = avaliable;
     }
 
