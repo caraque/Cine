@@ -18,7 +18,7 @@ import java.util.ArrayList;
  */
 public class Cine extends Application {
 
-    VBox vbox = new VBox(5);
+    VBox vbox = new VBox();
     HBox[] hbox;
     ConsultaSalaCine cs;
     ArrayList<Integer> fila;
@@ -37,10 +37,8 @@ public class Cine extends Application {
     @Override
     public void start(Stage stage) throws Exception {
 
-        ArrayList<Label> array = new ArrayList<Label>();
         hbox = new HBox[cs.getCantidadButacas()];
-        for (int a = 0; a < cs.getCantidadButacas(); a++) {
-            int c = 0;
+        for (int a = 1; a < cs.getCantidadButacas(); a++) {
             hbox[a] = new HBox();
             Label label = new Label(String.valueOf(room.getSeats().get(a).getNroAsiento()));
             label.setStyle(room.getSeats().get(a).isAvaliable() == true ? "-fx-background-color: #09df00" : "-fx-background-color: #ae060b");
@@ -52,15 +50,17 @@ public class Cine extends Application {
                             if (hbox[columna.get(a)] == null) {
                                 hbox[columna.get(a)] = new HBox();
                                 hbox[columna.get(a)].getChildren().add(label);
+                                break;
                             } else {
                                 hbox[columna.get(a)].getChildren().add(label);
+                                break;
                             }
                         }
                     }
+                    break;
                 }
             }
-            array.add(label);
-            vbox.getChildren().add(hbox[a]);
+            vbox.getChildren().addAll(hbox[a]);
         }
 
         vbox.setAlignment(Pos.CENTER);
