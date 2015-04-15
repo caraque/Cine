@@ -38,7 +38,7 @@ public class Cine extends Application {
     public void start(Stage stage) throws Exception {
 
         hbox = new HBox[cs.getCantidadButacas()];
-        for (int a = 1; a < cs.getCantidadButacas(); a++) {
+        for (int a = 0; a < cs.getCantidadButacas(); a++) {
             hbox[a] = new HBox();
             Label label = new Label();
             if (room.getSeats().get(a).isAvaliable() == null) {
@@ -51,16 +51,16 @@ public class Cine extends Application {
                 label.setStyle("-fx-background-color: #09df00");
             }
             label.setMinSize(30, 30);
-            for (int b = 0; b < fila.size(); b++) {
+            for (int b = 1; b < fila.size(); b++) {
                 if (b == fila.get(a)) {
-                    for (int d = 0; d < columna.size(); d++) {
+                    for (int d = 1; d < columna.size(); d++) {
                         if (d == columna.get(a)) {
-                            if (hbox[columna.get(a)] == null) {
-                                hbox[columna.get(a)] = new HBox();
-                                hbox[columna.get(a)].getChildren().add(label);
+                            if (hbox[columna.get(a)-1] == null) {
+                                hbox[columna.get(a)-1] = new HBox();
+                                hbox[columna.get(a)-1].getChildren().add(label);
                                 break;
                             } else {
-                                hbox[columna.get(a)].getChildren().add(label);
+                                hbox[columna.get(a)-1].getChildren().add(label);
                                 break;
                             }
                         }

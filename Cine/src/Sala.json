@@ -13,10 +13,13 @@
         "row": 1,
         "column": 2,
         "avaliable": "D"
+      },
+      {
+        "nroAsiento" : 3,
+        "row": 1,
+        "column": 3,
+        "avaliable": "F"
       }
-
     ]
   }
-
-
 }

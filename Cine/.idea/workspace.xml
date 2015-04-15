@@ -49,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sala.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Sala.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sala.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6280788" vertical-offset="0" max-vertical-offset="459">
-              <caret line="15" column="9" selection-start-line="9" selection-start-column="5" selection-end-line="15" selection-end-column="7" />
+            <state vertical-scroll-proportion="-9.076923" vertical-offset="104" max-vertical-offset="510">
+              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -74,12 +74,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cine.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Cine.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/interfaz/Cine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="523" max-vertical-offset="1632">
-              <caret line="49" column="84" selection-start-line="49" selection-start-column="84" selection-end-line="49" selection-end-column="84" />
-              <folding />
+            <state vertical-scroll-proportion="0.7569444" vertical-offset="727" max-vertical-offset="1598">
+              <caret line="62" column="53" selection-start-line="62" selection-start-column="53" selection-end-line="62" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,10 +119,10 @@
         <option value="$PROJECT_DIR$/src/dto/Room.java" />
         <option value="$PROJECT_DIR$/src/dto/Seat.java" />
         <option value="$PROJECT_DIR$/src/controlador/ConsultaSalaCine.java" />
-        <option value="$PROJECT_DIR$/src/interfaz/Cine.java" />
         <option value="$PROJECT_DIR$/src/bean/SalaCineBean.java" />
         <option value="$PROJECT_DIR$/src/Sala.txt" />
         <option value="$PROJECT_DIR$/src/Sala.json" />
+        <option value="$PROJECT_DIR$/src/interfaz/Cine.java" />
       </list>
     </option>
   </component>
@@ -615,12 +617,12 @@
       <workItem from="1429019675824" duration="704000" />
       <workItem from="1429021943945" duration="17334000" />
       <workItem from="1429045654760" duration="9066000" />
-      <workItem from="1429062181573" duration="2358000" />
+      <workItem from="1429062181573" duration="2751000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51592000" />
+    <option name="totallyTimeSpent" value="51985000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -775,7 +777,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="523" max-vertical-offset="1632">
           <caret line="49" column="84" selection-start-line="49" selection-start-column="84" selection-end-line="49" selection-end-column="84" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -841,7 +845,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1462">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -891,7 +897,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="284" max-vertical-offset="1020">
           <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -941,7 +949,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="284" max-vertical-offset="1020">
           <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -951,27 +961,6 @@
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interfaz/Cine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="523" max-vertical-offset="1632">
-          <caret line="49" column="84" selection-start-line="49" selection-start-column="84" selection-end-line="49" selection-end-column="84" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controlador/ConsultaSalaCine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="245" max-vertical-offset="1394">
-          <caret line="22" column="78" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
-          <folding>
-            <element signature="e#443#452#0" expanded="false" />
-            <element signature="e#506#515#0" expanded="false" />
-            <element signature="e#624#630#0" expanded="false" />
-            <element signature="e#694#706#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1015,9 +1004,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sala.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6280788" vertical-offset="0" max-vertical-offset="459">
-          <caret line="15" column="9" selection-start-line="9" selection-start-column="5" selection-end-line="15" selection-end-column="7" />
+        <state vertical-scroll-proportion="-9.076923" vertical-offset="104" max-vertical-offset="510">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controlador/ConsultaSalaCine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="245" max-vertical-offset="1394">
+          <caret line="22" column="78" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+          <folding>
+            <element signature="e#443#452#0" expanded="false" />
+            <element signature="e#506#515#0" expanded="false" />
+            <element signature="e#624#630#0" expanded="false" />
+            <element signature="e#694#706#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaz/Cine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7569444" vertical-offset="727" max-vertical-offset="1598">
+          <caret line="62" column="53" selection-start-line="62" selection-start-column="53" selection-end-line="62" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

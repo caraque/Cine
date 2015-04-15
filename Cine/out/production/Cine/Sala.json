@@ -1,0 +1,25 @@
+{
+  "room": {
+    "from": 1,
+    "to": 72,
+    "seats": [ {
+      "nroAsiento" : 1,
+      "row": 1,
+      "column": 1,
+      "avaliable": "D"
+    },
+      {
+        "nroAsiento" : 2,
+        "row": 1,
+        "column": 2,
+        "avaliable": "D"
+      },
+      {
+        "nroAsiento" : 3,
+        "row": 1,
+        "column": 3,
+        "avaliable": "F"
+      }
+    ]
+  }
+}
