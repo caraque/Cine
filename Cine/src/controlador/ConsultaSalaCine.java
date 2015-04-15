@@ -6,7 +6,6 @@ import dto.Room;
 import dto.Seat;
 
 import java.util.ArrayList;
-import java.util.List;
 
 /**
  * Created by Christian on 13-04-2015.
@@ -22,21 +21,14 @@ public class ConsultaSalaCine {
         ArrayList<Integer> fila = new ArrayList<Integer>();
         ArrayList<Integer> columna = new ArrayList<Integer>();
         SalaCineBean salaCineBean = new SalaCineBean();
-        ArrayList<Seat> listaSeat = new ArrayList<Seat>();
-        ArrayList<List<Seat>> listaListaSeat = new ArrayList<List<Seat>>();
         String archivoSalas = salaCineBean.consultarSala();
-
         Room room= gson.fromJson(archivoSalas,Room.class);
         System.out.println("room.getFrom() = " + room.getFrom());
-
-
         for(Seat filaTemp:room.getSeats()){
             fila.add(filaTemp.getRow());
             columna.add(filaTemp.getColumn());
         }
         System.out.println(room.toString());
-
-
         object.add(room);
         object.add(fila);
         object.add(columna);
@@ -51,7 +43,4 @@ public class ConsultaSalaCine {
         return cantidadButacas;
     }
 
-    public void setCantidadButacas(int cantidadButacas) {
-        this.cantidadButacas = cantidadButacas;
-    }
 }

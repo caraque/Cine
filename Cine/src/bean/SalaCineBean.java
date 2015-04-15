@@ -18,11 +18,6 @@ public class SalaCineBean {
             FileReader fr = new FileReader("src/Sala.json");
             JsonElement datos = parser.parse(fr);
             archivo = String.valueOf(datos);
-
-            /**File file = new File("src/Sala.txt");
-            FileReader archivoSalas = new FileReader(file);
-            BufferedReader bf = new BufferedReader(archivoSalas);
-            archivo = bf.readLine(); **/
         } catch (Exception e) {
             e.printStackTrace();
         }

@@ -71,7 +71,6 @@ public class Cine extends Application {
             vbox.getChildren().addAll(hbox[a]);
         }
         vbox.setAlignment(Pos.CENTER);
-
         vbox.setStyle("-fx-background-color: #003b4e;");
         vbox.setLayoutX(66);
         vbox.setLayoutY(66);
