@@ -18,6 +18,36 @@
         "nroAsiento" : 3,
         "row": 1,
         "column": 3,
+        "avaliable": "D"
+      },
+      {
+        "nroAsiento" : 4,
+        "row": 1,
+        "column": 4,
+        "avaliable": "D"
+      },
+      {
+        "nroAsiento" : 5,
+        "row": 1,
+        "column": 5,
+        "avaliable": "D"
+      },
+      {
+        "nroAsiento" : 6,
+        "row": 1,
+        "column": 6,
+        "avaliable": "D"
+      },
+      {
+        "nroAsiento" : 7,
+        "row": 1,
+        "column": 7,
+        "avaliable": "F"
+      },
+      {
+        "nroAsiento" : 8,
+        "row": 1,
+        "column": 8,
         "avaliable": "F"
       }
     ]
