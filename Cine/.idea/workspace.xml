@@ -29,23 +29,11 @@
       <file leaf-file-name="Seat.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dto/Seat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="782">
-              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="29" />
               <folding>
-                <element signature="e#218#219#0" expanded="false" />
-                <element signature="e#251#252#0" expanded="false" />
-                <element signature="e#300#301#0" expanded="false" />
-                <element signature="e#344#345#0" expanded="false" />
-                <element signature="e#371#372#0" expanded="false" />
-                <element signature="e#397#398#0" expanded="false" />
-                <element signature="e#432#433#0" expanded="false" />
-                <element signature="e#462#463#0" expanded="false" />
-                <element signature="e#492#493#0" expanded="false" />
-                <element signature="e#521#522#0" expanded="false" />
-                <element signature="e#634#635#0" expanded="false" />
-                <element signature="e#666#667#0" expanded="false" />
-                <element signature="e#717#718#0" expanded="false" />
-                <element signature="e#759#760#0" expanded="false" />
+                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,30 +42,27 @@
       <file leaf-file-name="Room.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dto/Room.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="680">
-              <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-              <folding>
-                <element signature="e#214#215#0" expanded="false" />
-                <element signature="e#241#242#0" expanded="false" />
-                <element signature="e#278#279#0" expanded="false" />
-                <element signature="e#310#311#0" expanded="false" />
-                <element signature="e#336#337#0" expanded="false" />
-                <element signature="e#361#362#0" expanded="false" />
-                <element signature="e#394#395#0" expanded="false" />
-                <element signature="e#422#423#0" expanded="false" />
-                <element signature="e#463#464#0" expanded="false" />
-                <element signature="e#491#492#0" expanded="false" />
-                <element signature="e#542#543#0" expanded="false" />
-                <element signature="e#576#577#0" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="33" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConsultaSalaCine.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Sala.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Sala.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6280788" vertical-offset="0" max-vertical-offset="459">
+              <caret line="15" column="9" selection-start-line="9" selection-start-column="5" selection-end-line="15" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsultaSalaCine.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/controlador/ConsultaSalaCine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2986111" vertical-offset="245" max-vertical-offset="1394">
+            <state vertical-scroll-proportion="0.0" vertical-offset="245" max-vertical-offset="1394">
               <caret line="22" column="78" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
               <folding>
                 <element signature="e#443#452#0" expanded="false" />
@@ -109,22 +94,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sala.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sala.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SalaCineBean.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bean/SalaCineBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="561">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
               <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -143,6 +120,7 @@
         <option value="$PROJECT_DIR$/src/interfaz/Cine.java" />
         <option value="$PROJECT_DIR$/src/bean/SalaCineBean.java" />
         <option value="$PROJECT_DIR$/src/Sala.txt" />
+        <option value="$PROJECT_DIR$/src/Sala.json" />
       </list>
     </option>
   </component>
@@ -637,12 +615,12 @@
       <workItem from="1429019675824" duration="704000" />
       <workItem from="1429021943945" duration="17334000" />
       <workItem from="1429045654760" duration="9066000" />
-      <workItem from="1429062181573" duration="355000" />
+      <workItem from="1429062181573" duration="2358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49589000" />
+    <option name="totallyTimeSpent" value="51592000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -766,20 +744,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="782">
           <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
-            <element signature="e#218#219#0" expanded="false" />
-            <element signature="e#251#252#0" expanded="false" />
-            <element signature="e#300#301#0" expanded="false" />
-            <element signature="e#344#345#0" expanded="false" />
-            <element signature="e#371#372#0" expanded="false" />
-            <element signature="e#397#398#0" expanded="false" />
-            <element signature="e#432#433#0" expanded="false" />
-            <element signature="e#462#463#0" expanded="false" />
-            <element signature="e#492#493#0" expanded="false" />
-            <element signature="e#521#522#0" expanded="false" />
-            <element signature="e#634#635#0" expanded="false" />
-            <element signature="e#666#667#0" expanded="false" />
-            <element signature="e#717#718#0" expanded="false" />
-            <element signature="e#759#760#0" expanded="false" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -788,20 +754,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="680">
           <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-          <folding>
-            <element signature="e#214#215#0" expanded="false" />
-            <element signature="e#241#242#0" expanded="false" />
-            <element signature="e#278#279#0" expanded="false" />
-            <element signature="e#310#311#0" expanded="false" />
-            <element signature="e#336#337#0" expanded="false" />
-            <element signature="e#361#362#0" expanded="false" />
-            <element signature="e#394#395#0" expanded="false" />
-            <element signature="e#422#423#0" expanded="false" />
-            <element signature="e#463#464#0" expanded="false" />
-            <element signature="e#491#492#0" expanded="false" />
-            <element signature="e#542#543#0" expanded="false" />
-            <element signature="e#576#577#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -846,7 +799,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="561">
           <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -855,20 +810,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="319" max-vertical-offset="816">
           <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding>
-            <element signature="e#218#219#0" expanded="false" />
-            <element signature="e#251#252#0" expanded="false" />
-            <element signature="e#300#301#0" expanded="false" />
-            <element signature="e#344#345#0" expanded="false" />
-            <element signature="e#371#372#0" expanded="false" />
-            <element signature="e#397#398#0" expanded="false" />
-            <element signature="e#432#433#0" expanded="false" />
-            <element signature="e#462#463#0" expanded="false" />
-            <element signature="e#492#493#0" expanded="false" />
-            <element signature="e#521#522#0" expanded="false" />
-            <element signature="e#634#635#0" expanded="false" />
-            <element signature="e#666#667#0" expanded="false" />
-            <element signature="e#717#718#0" expanded="false" />
-            <element signature="e#759#760#0" expanded="false" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -877,20 +820,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="268" max-vertical-offset="748">
           <caret line="44" column="43" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-          <folding>
-            <element signature="e#214#215#0" expanded="false" />
-            <element signature="e#241#242#0" expanded="false" />
-            <element signature="e#278#279#0" expanded="false" />
-            <element signature="e#310#311#0" expanded="false" />
-            <element signature="e#336#337#0" expanded="false" />
-            <element signature="e#361#362#0" expanded="false" />
-            <element signature="e#394#395#0" expanded="false" />
-            <element signature="e#422#423#0" expanded="false" />
-            <element signature="e#463#464#0" expanded="false" />
-            <element signature="e#491#492#0" expanded="false" />
-            <element signature="e#542#543#0" expanded="false" />
-            <element signature="e#576#577#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -919,7 +849,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="544">
           <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -928,20 +860,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="782">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
-            <element signature="e#218#219#0" expanded="false" />
-            <element signature="e#251#252#0" expanded="false" />
-            <element signature="e#300#301#0" expanded="false" />
-            <element signature="e#344#345#0" expanded="false" />
-            <element signature="e#371#372#0" expanded="false" />
-            <element signature="e#397#398#0" expanded="false" />
-            <element signature="e#432#433#0" expanded="false" />
-            <element signature="e#462#463#0" expanded="false" />
-            <element signature="e#492#493#0" expanded="false" />
-            <element signature="e#521#522#0" expanded="false" />
-            <element signature="e#634#635#0" expanded="false" />
-            <element signature="e#666#667#0" expanded="false" />
-            <element signature="e#717#718#0" expanded="false" />
-            <element signature="e#759#760#0" expanded="false" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -950,20 +870,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="884">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="e#214#215#0" expanded="false" />
-            <element signature="e#241#242#0" expanded="false" />
-            <element signature="e#278#279#0" expanded="false" />
-            <element signature="e#310#311#0" expanded="false" />
-            <element signature="e#336#337#0" expanded="false" />
-            <element signature="e#361#362#0" expanded="false" />
-            <element signature="e#394#395#0" expanded="false" />
-            <element signature="e#422#423#0" expanded="false" />
-            <element signature="e#463#464#0" expanded="false" />
-            <element signature="e#491#492#0" expanded="false" />
-            <element signature="e#542#543#0" expanded="false" />
-            <element signature="e#576#577#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -992,7 +899,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1001,20 +910,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="782">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
-            <element signature="e#218#219#0" expanded="false" />
-            <element signature="e#251#252#0" expanded="false" />
-            <element signature="e#300#301#0" expanded="false" />
-            <element signature="e#344#345#0" expanded="false" />
-            <element signature="e#371#372#0" expanded="false" />
-            <element signature="e#397#398#0" expanded="false" />
-            <element signature="e#432#433#0" expanded="false" />
-            <element signature="e#462#463#0" expanded="false" />
-            <element signature="e#492#493#0" expanded="false" />
-            <element signature="e#521#522#0" expanded="false" />
-            <element signature="e#634#635#0" expanded="false" />
-            <element signature="e#666#667#0" expanded="false" />
-            <element signature="e#717#718#0" expanded="false" />
-            <element signature="e#759#760#0" expanded="false" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1023,20 +920,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="884">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="e#214#215#0" expanded="false" />
-            <element signature="e#241#242#0" expanded="false" />
-            <element signature="e#278#279#0" expanded="false" />
-            <element signature="e#310#311#0" expanded="false" />
-            <element signature="e#336#337#0" expanded="false" />
-            <element signature="e#361#362#0" expanded="false" />
-            <element signature="e#394#395#0" expanded="false" />
-            <element signature="e#422#423#0" expanded="false" />
-            <element signature="e#463#464#0" expanded="false" />
-            <element signature="e#491#492#0" expanded="false" />
-            <element signature="e#542#543#0" expanded="false" />
-            <element signature="e#576#577#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1065,50 +949,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="544">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dto/Room.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
-          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
           <folding>
-            <element signature="e#214#215#0" expanded="false" />
-            <element signature="e#241#242#0" expanded="false" />
-            <element signature="e#278#279#0" expanded="false" />
-            <element signature="e#310#311#0" expanded="false" />
-            <element signature="e#336#337#0" expanded="false" />
-            <element signature="e#361#362#0" expanded="false" />
-            <element signature="e#394#395#0" expanded="false" />
-            <element signature="e#422#423#0" expanded="false" />
-            <element signature="e#463#464#0" expanded="false" />
-            <element signature="e#491#492#0" expanded="false" />
-            <element signature="e#542#543#0" expanded="false" />
-            <element signature="e#576#577#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dto/Seat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="251" max-vertical-offset="816">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <element signature="e#218#219#0" expanded="false" />
-            <element signature="e#251#252#0" expanded="false" />
-            <element signature="e#300#301#0" expanded="false" />
-            <element signature="e#344#345#0" expanded="false" />
-            <element signature="e#371#372#0" expanded="false" />
-            <element signature="e#397#398#0" expanded="false" />
-            <element signature="e#432#433#0" expanded="false" />
-            <element signature="e#462#463#0" expanded="false" />
-            <element signature="e#492#493#0" expanded="false" />
-            <element signature="e#521#522#0" expanded="false" />
-            <element signature="e#634#635#0" expanded="false" />
-            <element signature="e#666#667#0" expanded="false" />
-            <element signature="e#717#718#0" expanded="false" />
-            <element signature="e#759#760#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1121,11 +963,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/controlador/ConsultaSalaCine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="245" max-vertical-offset="1394">
+          <caret line="22" column="78" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+          <folding>
+            <element signature="e#443#452#0" expanded="false" />
+            <element signature="e#506#515#0" expanded="false" />
+            <element signature="e#624#630#0" expanded="false" />
+            <element signature="e#694#706#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/bean/SalaCineBean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="561">
           <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1137,24 +994,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sala.json">
+    <entry file="file://$PROJECT_DIR$/src/dto/Room.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="531">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/controlador/ConsultaSalaCine.java">
+    <entry file="file://$PROJECT_DIR$/src/dto/Seat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2986111" vertical-offset="245" max-vertical-offset="1394">
-          <caret line="22" column="78" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="29" />
           <folding>
-            <element signature="e#443#452#0" expanded="false" />
-            <element signature="e#506#515#0" expanded="false" />
-            <element signature="e#624#630#0" expanded="false" />
-            <element signature="e#694#706#0" expanded="false" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sala.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6280788" vertical-offset="0" max-vertical-offset="459">
+          <caret line="15" column="9" selection-start-line="9" selection-start-column="5" selection-end-line="15" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
