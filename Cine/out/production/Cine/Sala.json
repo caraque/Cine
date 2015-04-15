@@ -90,13 +90,13 @@
       "nroAsiento": 15,
       "row": 4,
       "column": 1,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 16,
       "row": 5,
       "column": 1,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 17,
@@ -150,13 +150,13 @@
       "nroAsiento": 25,
       "row": 4,
       "column": 2,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 26,
       "row": 5,
       "column": 2,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 27,
@@ -210,13 +210,13 @@
       "nroAsiento": 35,
       "row": 4,
       "column": 3,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 36,
       "row": 5,
       "column": 3,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 37,
@@ -270,13 +270,13 @@
       "nroAsiento": 45,
       "row": 4,
       "column": 4,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 46,
       "row": 5,
       "column": 4,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 47,
@@ -330,13 +330,13 @@
       "nroAsiento": 55,
       "row": 4,
       "column": 5,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 56,
       "row": 5,
       "column": 5,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 57,
@@ -390,13 +390,13 @@
       "nroAsiento": 65,
       "row": 4,
       "column": 6,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 66,
       "row": 5,
       "column": 6,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 67,
@@ -450,13 +450,13 @@
       "nroAsiento": 75,
       "row": 4,
       "column": 7,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 76,
       "row": 5,
       "column": 7,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 77,
@@ -486,121 +486,121 @@
       "nroAsiento": 81,
       "row": 0,
       "column": 8,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 82,
       "row": 1,
       "column": 8,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 83,
       "row": 2,
       "column": 8,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 84,
       "row": 3,
       "column": 8,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 85,
       "row": 4,
       "column": 8,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 86,
       "row": 5,
       "column": 8,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 87,
       "row": 6,
       "column": 8,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 88,
       "row": 7,
       "column": 8,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 89,
       "row": 8,
       "column": 8,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 90,
       "row": 9,
       "column": 8,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 91,
       "row": 0,
       "column": 9,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 92,
       "row": 1,
       "column": 9,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 93,
       "row": 2,
       "column": 9,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 94,
       "row": 3,
       "column": 9,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 95,
       "row": 4,
       "column": 9,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 96,
       "row": 5,
       "column": 9,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 97,
       "row": 6,
       "column": 9,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 98,
       "row": 7,
       "column": 9,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 99,
       "row": 8,
       "column": 9,
-      "avaliable": true
+      "avaliable": null
     },
     {
       "nroAsiento": 100,
       "row": 9,
       "column": 9,
-      "avaliable": true
+      "avaliable": null
     }
   ]
 }
