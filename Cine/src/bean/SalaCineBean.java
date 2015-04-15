@@ -1,7 +1,8 @@
 package bean;
 
-import java.io.BufferedReader;
-import java.io.File;
+import com.google.gson.JsonElement;
+import com.google.gson.JsonParser;
+
 import java.io.FileReader;
 
 /**
@@ -13,10 +14,15 @@ public class SalaCineBean {
        String archivo = null;
         try {
 
-            File file = new File("src/Sala.txt");
+            JsonParser parser = new JsonParser();
+            FileReader fr = new FileReader("src/Sala.json");
+            JsonElement datos = parser.parse(fr);
+            archivo = String.valueOf(datos);
+
+            /**File file = new File("src/Sala.txt");
             FileReader archivoSalas = new FileReader(file);
             BufferedReader bf = new BufferedReader(archivoSalas);
-            archivo = bf.readLine();
+            archivo = bf.readLine(); **/
         } catch (Exception e) {
             e.printStackTrace();
         }

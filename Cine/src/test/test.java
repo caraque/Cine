@@ -31,8 +31,8 @@ public class test {
         room.setTo(100);
         ArrayList<Seat> arrayList = new ArrayList<Seat>();
         int asiento = 1;
-        for (int i = 0; i < 5; i++) {
-            for (int j = 0; j < 5; j++) {
+        for (int i = 0; i < 10; i++) {
+            for (int j = 0; j < 10; j++) {
             Seat seat = new Seat();
             seat.setAvaliable(Boolean.TRUE);
             seat.setColumn(i);
@@ -44,6 +44,5 @@ public class test {
         }
         room.setSeats(arrayList);
         System.out.println(gson.toJson(room));
-        System.out.println("hola");
     }
 }
