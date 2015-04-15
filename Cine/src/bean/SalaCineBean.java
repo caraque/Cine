@@ -23,5 +23,4 @@ public class SalaCineBean {
         System.out.println("linea = " + archivo);
         return archivo;
     }
-
 }
