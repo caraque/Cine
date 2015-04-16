@@ -1,1 +1,4 @@
-Colcoar el archivo Json en La ruta "C:\\" para que el documento pueda ser alterado y se valide la funcionalidad del algoritmo al ejecutar el .Jar.
+Colcoar el archivo Json en La ruta:
+En caso de Windows - "C:"
+En caso de Linux - "/home/"
+Con el propósito de que el documento pueda ser alterado y se valide la funcionalidad del algoritmo al ejecutar el .Jar.
