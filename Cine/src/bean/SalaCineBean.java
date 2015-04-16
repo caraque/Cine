@@ -15,7 +15,7 @@ public class SalaCineBean {
         try {
 
             JsonParser parser = new JsonParser();
-            FileReader fr = new FileReader("src/Sala.json");
+            FileReader fr = new FileReader("C:\\Sala.json");
             JsonElement datos = parser.parse(fr);
             archivo = String.valueOf(datos);
         } catch (Exception e) {
